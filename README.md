@@ -1,2 +1,2 @@
-# Gwyneid.github.io
+# Lab_1
 https://gwyneid.github.io/site
