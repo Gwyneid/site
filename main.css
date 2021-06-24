@@ -6,7 +6,7 @@ body{
 #header::before{
   content:"";
   position: absolute;
-  background-image: url("img/cover.JPG");
+  background-image: url("img/cover.jpg");
   background-position: center top;
   background-size:cover;
   filter:brightness(0.35);
